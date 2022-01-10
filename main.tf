@@ -114,7 +114,7 @@ resource "oci_core_instance" "t_instance"{
 	}
     metadata = {
         "ssh_authorized_keys" = var.ssh_auth_key
-        # "user_data" = var.user_data
+        "user_data" = var.user_data
     }
 
 }

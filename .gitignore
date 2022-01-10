@@ -1,0 +1,5 @@
+oci_env.sh
+terraform.tfstate
+.terraform.lock.hcl
+terraform.tfstate.backup
+.terraform/

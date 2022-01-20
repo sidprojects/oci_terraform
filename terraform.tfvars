@@ -8,7 +8,6 @@ tag = {
 
 src = "0.0.0.0/0"
 tcp = "6"
-icmp = "1"
 
 ad = "tOuk:AP-SEOUL-1-AD-1"
 
